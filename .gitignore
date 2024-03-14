@@ -163,3 +163,5 @@ cython_debug/
 pytorch/introduction/data
 pytorch/image_video/data
 data/
+**/.DS_Store
+**/__pycache__
