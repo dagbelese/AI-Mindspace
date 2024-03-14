@@ -160,5 +160,6 @@ cython_debug/
 #.idea/
 
 # Datasets
-PyTorch/data/
+pytorch/introduction/data
+pytorch/image_video/data
 data/
